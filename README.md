@@ -7,6 +7,11 @@
           <img align-"center" alt-"Rafa-Js" height-"30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
           <img align-"center" alt-"Rafa-Js" height-"30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           <img align-"center" alt-"Rafa-Js" height-"30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  
-          
-          
+ </div>
+ 
+##
+   
+<div>
+  <a href="https://instagram.com/isalanguimaraes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)"blank"></a>
+</div>
+
