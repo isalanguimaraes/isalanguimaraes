@@ -1,4 +1,7 @@
-## Hello World, I'm Isalan Guimarães, be very welcome
+<!-- TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=32&center=true&vCenter=true&width=900&lines=Hello+World!+Welcome+to+My+Profile!👋;My+Name+Is+Isalan+Guimarães;Computer+Science+Student+%26+Fullstack+Developer💻" />
+</p>
 
 - 👨‍💻 Computer Maintenance and Support Technician
 - 📖 Studying C and Java programming languages
@@ -14,6 +17,7 @@
 
 ##
 
+**🐍 Snake contribution graph**
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isalanguimaraes/isalanguimaraes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isalanguimaraes/isalanguimaraes/output/github-contribution-grid-snake-dark.svg">
@@ -29,8 +33,5 @@
   <a href="https://www.youtube.com/@Isalandev" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
-   <a href="https://www.reddit.com/user/Consistent_Cycle_572/" target="_blank">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-   </a>
    
 </div>
