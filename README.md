@@ -14,8 +14,10 @@
 ##
    
 <div>
-  <a href="https://instagram.com/isalanguimaraes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)"blank"></a>
-  <a href="https://www.youtube.com/@Isalandev" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)"blank">
+   <a href="https://www.linkedin.com/in/isalanguimaraes"_blank"><img scr="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"blank)">
 </a>
+  <a href="https://instagram.com/isalanguimaraes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"blank"></a>
+  <a href="https://www.youtube.com/@Isalandev" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"blank)">
+</a> 
 </div>
 
