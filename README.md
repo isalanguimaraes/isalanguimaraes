@@ -13,5 +13,7 @@
    
 <div>
   <a href="https://instagram.com/isalanguimaraes" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)"blank"></a>
+  <a href="https://www.youtube.com/@Isalandev" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)"blank">
+</a>
 </div>
 
